@@ -11,18 +11,17 @@ All records are saved using file handling so that tasks remain stored even after
 ├── src/
 │   ├── main.c
 │   ├── task.c
-│   ├── menu.c
+│   ├── tracker.c
 │   ├── utils.c
-│   └── extras.c
 │
 ├── include/
 │   ├── task.h
-│   ├── menu.h
+│   ├── tracker.h
 │   ├── utils.h
-│   └── extras.h
+│ 
 │
 ├── assets/
-│   └── (screenshots, flowcharts, etc.)
+│   └── ( flowcharts. )
 │
 ├── docs/
 │   └── ProjectReport.pdf
